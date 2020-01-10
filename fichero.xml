@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+	
+	<title>El tiempo</title>
+	<link href="https://www.tiempo.es/" rel="alternate" type="text/html" />
+	<updated>2019-11-30T12:40:00Z</updated>
+	<id>https://www.tiempo.es/</id>
+
+	<entry>
+		<title>El tiempo en Córdoba</title>
+		<id>https://www.eltiempo.es/en-provincia-cordoba</id>
+		<link rel="alternate" type="text/html" href="https://www.eltiempo.es/en-provincia-cordoba"/>
+		<summary>Avisos metereologicos en Córdoba</summary>
+		<author>
+			<name>Jose Manuel Rodriguez Machado</name>
+		</author>
+		<updated>2019-11-30T12:40:00Z</updated>
+	</entry>
+
+	<entry>
+		<title>El tiempo en Sevilla</title>
+		<id>https://www.eltiempo.es/en-provincia-sevilla</id>
+		<link rel="alternate" type="text/html" href="https://www.eltiempo.es/en-provincia-sevilla" />
+		<summary>Avisos metereologicos en Sevilla</summary>
+		<author>
+			<name>Jose Manuel Rodriguez Machado</name>
+		</author>
+		<updated>2019-11-30T12:40:00Z</updated>
+	</entry>
+
+</feed>
